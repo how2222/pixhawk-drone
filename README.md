@@ -1,4 +1,4 @@
-# drone — F450 quadcopter on a Pixhawk PRO, flown from a laptop
+# pixhawk-drone — F450 quadcopter on a Pixhawk PRO, flown from a laptop
 
 Companion repository of the project page: **https://how2222.github.io/portfolio/projects/drone.html**
 
